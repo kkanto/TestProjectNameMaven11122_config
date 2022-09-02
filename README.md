@@ -1,0 +1,2 @@
+# TestProjectNameMaven11122_config
+This is config for TestProjectNameMaven11122
